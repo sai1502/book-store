@@ -2,6 +2,7 @@
 
 # costom
 package.json
+.env
 
 # dependencies
 /node_modules
